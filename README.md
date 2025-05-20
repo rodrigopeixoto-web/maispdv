@@ -12,10 +12,7 @@ O **Mais PDV** é um sistema de Ponto de Venda (PDV) com mini ERP integrado, pro
 
 ## Limitações
 - Requer **conexão à internet** (não suporta modo offline).
-- Não emite notas fiscais (NFC-e ou NF-e).
-- Não suporta delivery, mesas, comandas, sangria ou integração com equipamentos (ex.: balanças, gavetas).
-- Sem integração com plataformas externas (ex.: iFood).
-
+  
 ## Público-Alvo
 Micro e pequenas empresas, como lojas e prestadores de serviços, que precisam de um PDV básico para vendas presenciais e gestão simplificada, sem emissão fiscal.
 
@@ -39,7 +36,7 @@ Micro e pequenas empresas, como lojas e prestadores de serviços, que precisam d
 Este repositório contém apenas o executável portátil. Para sugestões ou melhorias no sistema, entre em contato pelo site oficial [Mais PDV](https://maispdv.com).
 
 ## Licença
-Este software é distribuído como parte do serviço SaaS do Mais PDV. O uso está sujeito aos [Termos de Serviço](https://maispdv.com/termos).
+Este software é distribuído como parte do serviço SaaS do Mais PDV. O uso está sujeito aos [Termos de Serviço]([https://maispdv.com/termos](https://maispdv.com/termos-e-politica)).
 
 ## Suporte
-Para suporte, acesse o [Portal de Ajuda](https://maispdv.com/suporte) ou envie um e-mail para suporte@maispdv.com.
+Para suporte, envie um e-mail para contato@maispdv.com.
